@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am futur Master student in marine chemical ecology science in SherLab. My project will be based on Genetic, ... of procclocos. 
+I am Master student in marine chemical ecology science in SherLab. My project will be based on Genetic, ... of procclocos. 
  
 
 ### More Information
