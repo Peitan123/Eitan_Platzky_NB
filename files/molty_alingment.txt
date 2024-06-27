@@ -1,0 +1,257 @@
+Saccharina      ------------------------------------------------------------
+Laminaria       ------------------------------------------------------------
+Fucus           ------------------------------------------------------------
+Palmaria        GGTATAAGTTAGTCTTTATATGATTATCAACTATTAGTCTTTAAAGACAATTAAGATAGA
+Ulva            ------------------------------------------------------------
+                                                                            
+
+Saccharina      ------------------------------------------------------------
+Laminaria       ------------------------------------ATGCCTGAGAATGTACAGGAAAGA
+Fucus           ------------------------------------ATGCCTGAGAACGTACAGGAAAGA
+Palmaria        AACCTAAGAAACTGCCTTAAATTCAAGGAGGAATACATGTCTCAATCCGTAGAACAACGG
+Ulva            ------------------------------------------------------------
+                                                                            
+
+Saccharina      -----------------------------TGGTGTAATTCCGTATGCCAAAATGGGATAT
+Laminaria       ACTCGGTTAAAAAGTGAGCGTTACGAATCAGGTGTAATTCCGTATGCCAAAATGGGATAC
+Fucus           ACTCGATTAAAAAGTGAGCGTTATGAATCTGGTGTAATCCCATATGCTAAAATGGGATAT
+Palmaria        ACAAGGATCAAAAACGAACGTTATGAGTCTGGAGTAATTCCATATGCTAAAATGGGATAT
+Ulva            ---------------------------GCTGGTGTAAA---AGATTCCCGTTTAACTTAT
+                                              ** ****      ** *     *    ** 
+
+Saccharina      TGGGATGCTGATTATAACGTTAAAGACACTGATATTCTAGCTCTATTCCGTATAACTCCA
+Laminaria       TGGGATGCTGATTATAACGTTAAAGACACTGATATTCTAGCTCTATTCCGTATAACTCCA
+Fucus           TGGGATGCAGATTACAACGTTAAAGATACTGATATTCTAGCTCTATTTCGTATAACTCCA
+Palmaria        TGGGATCCTGAACACGTAATTTTAGAAACTGATGTATTAGCTTTATTTCGTGTTACACCT
+Ulva            TACACGCCTGATTATCAAGTAAAAGATACTGATATTTTAGCAGCGTTTCGTATGACTCCT
+                *      * **  *     *   *** ****** *  ****    ** *** * ** ** 
+
+Saccharina      CAACCAGGCGTAGATCCCGTAGAAGCTGCCGCTGCTGTTGCGGGTGAATCTTCTACTGCA
+Laminaria       CAACCAGGCGTAGATCCCGTAGAAGCTGCCGCTGCTGTTGCGGGTGAATCTTCTACTGCA
+Fucus           CAACCAGGTGTAGATCCTGTGGAAGCTGCTGCTGCTGTTGCTGGTGAATCTTCAACTGCA
+Palmaria        CAACCAGGTGTAGATCCAATCGAAGCTTCTGCTGCAATTGCTGGTGAATCTTCAACAGCA
+Ulva            CAACCAGGAGTACCAGCAGAAGAAGCAGGTGCAGCTGTTGCTGCTGAATCATCAACAGGT
+                ******** ***    *    *****    ** **  **** * ****** ** ** *  
+
+Saccharina      ACATGGACGGTAGTTTGGACAGACTTATTAACTGCTTGCGATATCTATAGAGCAAAAGCA
+Laminaria       ACATGGACGGTAGTTTGGACAGACTTATTAACTGCTTGTGATATCTACAGAGCAAAAGCA
+Fucus           ACGTGGACAGTAGTATGGACAGATTTACTAACTGCTTGTGACATCTACCGAGCGAAAGCA
+Palmaria        ACTTGGACCGTTGTATGGACAGATCTATTAACAGCTTGCGACTTATACAGAGCAAAATGT
+Ulva            ACTTGGACAACTGTATGGACTGATGGTTTAACATCGTTAGATCGTTATAAAGGTCGTTGT
+                ** *****    ** ***** **     ****  * *  **    **   **        
+
+Saccharina      TATAGAGTAGATCCAGTACCTGGAACAAGCGACCAATACTTTGCATATGTTGCTTATGAA
+Laminaria       TATAGAGTAGATCCAGTACCTGGAACAAGCGACCAATTCTTTGCATATGTCGCTTATGAA
+Fucus           TATCGTGTGGATCCTGTTCCAGGAACAAATGATCAATATTTTGCATACATTGCTTATGAA
+Palmaria        TATAAAGTAGATGCAGTACCAAATACAAGTGATCAGTACTTCGCATACATTGCATATGAT
+Ulva            TACGATATTGAACCATTA---GGAGAAGACGATCAATATATCGCTTATATTGCTTATCCT
+                **     * **  *  *         *   ** ** *   * ** **  * ** ***   
+
+Saccharina      TGTGATTTATTTGAGGAAGGTTCTCTTGCAAACTTAACAGCTTCTATTATTGGTAACGTT
+Laminaria       TGTGATTTATTTGAGGAAGGTTCTCTTGCGAACTTAACAGCCTCTATTATTGGTAACGTT
+Fucus           TGTGATTTATTTGAAGAAGGTTCTCTTGCTAACTTAACCGCATCTATCATTGGTAATGTA
+Palmaria        ATTGATTTATTTGAAGAAGGATCAATTGCAAACTTAACTGCTTCAATTATTGGTAACGTA
+Ulva            TTAGACTTATTTGAAGAAGGATCAGTTACAAACTTATTTACTTCAATTGTAGGTAACGTT
+                   ** ******** ***** **  ** * ******    * ** **  * ***** ** 
+
+Saccharina      TTCGGTTTTAAAGCCGTTAAAGCTTTACGTCTAGAAGACATGAGAATTCCTTTTGCTTAC
+Laminaria       TTCGGTTTTAAAGCTGTTAAAGCTTTACGTCTAGAAGACATGAGAATTCCTTTTGCTTAC
+Fucus           TTTGGTTTTAAAGCTGTTAAAGCATTACGTTTAGAAGATATGAGGATTCCTTACGCTTAC
+Palmaria        TTCGGATTTAAAGCTGTAAAAGCTTTACGTCTTGAAGACATGCGTTTACCAGTTGCATAC
+Ulva            TTTGGTTTTAAAGCTTTACGTGCTTTACGTTTAGAAGATTTACGTATTCCACCAGCTTAT
+                ** ** ********  *    ** ****** * *****  *  *  * **    ** ** 
+
+Saccharina      TTAAAAACTTTCCAAGGTCCAGCTACTGGTGTCGTTGTGGAAAGAGAAAGATTAGACAAA
+Laminaria       TTAAAAACTTTCCAAGGCCCAGCAACTGGTGTTATTGTGGAAAGAGAAAGATTAGACAAA
+Fucus           CTAAAAACTTTCCAGGGTCCTGCTACAGGTGTAATTGTAGAACGAGAAAGATTAGATAAA
+Palmaria        CTTAAAACTTTCCAAGGTCCTGCAACAGGAACAGTTGTAGAACGTGAACGTATGGATAAG
+Ulva            GTTAAAACATTCCAAGGTCCACCTCATGGTATCCAAGTTGAACGTGATAAATTAAACAAA
+                 * ***** ***** ** **  *    **       ** *** * **     *  * ** 
+
+Saccharina      TTTGGTCGTCCTTTCTTAGGTGCTACTGTAAAACCTAAATTAGGTCTTTCAGGTAAAAAC
+Laminaria       TTTGGTCGTCCTTTCTTAGGTGCTACTGTAAAACCTAAATTAGGTCTTTCAGGTAAAAAC
+Fucus           TTTGGACGTCCTTTATTAGGAGCTACTGTAAAACCTAAATTAGGTCTTTCAGGTAAAAAC
+Palmaria        TTTGGTCGTCCTTTTCTAGGTGCAACTGTAAAGCCTAAGCTAGGTCTATCTGGTAAGAAC
+Ulva            TACGGTCGTGGTTTATTAGGTTGTACAATTAAACCAAAATTAGGTCTTTCAGCTAAAAAC
+                *  ** ***  ***  ****    **  * ** ** **  ******* ** * *** ***
+
+Saccharina      TACGGACGTGTAGTTTATGAAGGTTTAACTGGTGGTCTTGATTTCCTTAAGGATGATGAG
+Laminaria       TACGGACGTGTAGTTTATGAAGGGTTATGTGGTGGTCTTGATTTCCTTAAGGATGATGAG
+Fucus           TATGGGCGTGTTGTTTATGAAGGTTTAACAGGTGGTCTTGATTTTCTTAAAGATGATGAA
+Palmaria        TACGGGCGAGTAGTGTATGAAGGTCTAAAAGGTGGTCTGGACTTCCTTAAAGATGATGAA
+Ulva            TATGGACGTGCTGTTTATGAATGTTTACGAGGCGGTCTTGATTTTACAAAAGATGATGAA
+                ** ** ** *  ** ****** *  **   ** ***** ** **    ** ******** 
+
+Saccharina      AACATTAACTCACAACCATTCATGCGTTGGAAAGAACGTTTCTTATACTGTATGGAAGGT
+Laminaria       AACATTAACTCACAACCATTCATGCGTTGGAAAGAACGTTTCTTATACTGTATGGAAGGT
+Fucus           AATATTAATTCACAACCTTTCATGCGTTGGAAAGAACGTTTCTTATATTGTATGGAAGGT
+Palmaria        AATATTAATTCTCAACCATTCATGCGTTATAGCGAAAGATACCTTTACTCTATGGAAGGT
+Ulva            AACGTAAACTCACAACCTTTCATGCGTTGGCGTGATCGTTTCTTATTTGTTGCTGAAGCA
+                **  * ** ** ***** **********     **  * * * * *    *   ****  
+
+Saccharina      GTTAACCGTGCCGCTGCTGCAACAGGTGAAGTTAAAGGTTCTTACCTTAACATTACTGCT
+Laminaria       GTTAACCGTGCCGCTGCTGCAACAGGTGAAGTTAAAGGTTCTTACCTTAACGTTACTGCT
+Fucus           GTTAACCGTGCTGCTGCTGCAACTGGTGAAGTTAAAGGTTCTTATCTTAATGTTACCGCA
+Palmaria        GTTAACCGTGCTCAAGCTGCTGCTGGTGAAATTAAAGGACATTATCTTAATGTAACAGCT
+Ulva            ATTTATAAATCTCAATCTGAAACTGGTGAGGTGAAAGGACATTACTTAAATGCAACAGCA
+                 ** *     *     ***   * *****  * *****   ***  * **    ** ** 
+
+Saccharina      GCAACAATGGAACAAATGTATGAACGTGCAGAGTACGCTCATTCAATTGGTACTGTTATT
+Laminaria       GCAACAATGGAACAAATCTATGAACGTGCAGAGTACGCTTATTCAATTGGTACCGTTATT
+Fucus           GCAACAATGGAAAATATGTATGAACGTGCTGAATACTCTCATGCTATCGGTAGTGTAATT
+Palmaria        GCTACAATGGAAAACATGTACGAAAGAGCTGAGTTTGCTCAACAACTAGGGAGTGTTATT
+Ulva            GGTACATGTGAAGAAATGATGGAACGTGGTCAATTTGCTAAAGATTTAGGTGTTCCAATT
+                *  ***   *** * **    *** * *   * *   ** *     * **       ***
+
+Saccharina      GTAATGATCGATTTAGTTATCGGTTATACTGCTATTCAAACTATGGCTATCTGGGCACGA
+Laminaria       GTAATGGTCGATTTAGTTATCGGTTATACTGCTATTCAAACTATGGCTATCTGGGCAAGA
+Fucus           TGTATGATTGATTTAGTTGTTGGTTATACAGCAATTCAAAGTATGGCTATTTGGGCACGA
+Palmaria        TGCATGATTGACCTTGTAATTGGTTATTCAGCTATTCAAAGTATGGCAATCTGGGCTCGT
+Ulva            GTTATGCATGACTATATTACTGGTGGTTTTACAGCTAACACTTCATTATCTCGTTTCTGT
+                   ***   **     *    ***  *    *   * * * *          *     * 
+
+Saccharina      AAAGCTGAA--ATGATT-TTACATTTACATCGTGCAGGTAATTCTACTTATGCTCGTCAA
+Laminaria       AAAGCTGAT--ATGATT-TTACATTTACATCGTGCAGGTAATTCTACTTATGCTCGTCAA
+Fucus           AAAGCTGAA--ATGATT-TTGCATTTACATCGTGCAGGAAATTCTACATATGCCCGTCAA
+Palmaria        AAGACAGAT--ATGATT-TTACATTTACACAGAGCTGGTAATTCAACATACTCTCGTCAA
+Ulva            CGTGCTAGTGGATTATTATTACATATTCACCGTGCTATGCACGCTGTTATTGATCGTCAA
+                    *      ** *** ** *** * **  * **     *  *          ******
+
+Saccharina      AAAAACCATGGTATTAACTTCCGAGTTATCTGTAAATGGATGCGTATGTGTGGTGTAGAC
+Laminaria       AAAAACCATGGTATCAACTTCCGAGTTATCTGTAAATGGATGCGTATGTGTGGTGTAGAC
+Fucus           AAAAACCATGGTATTAATTTCCGAGTTATTTGTAAATGGATGCGTATGTGTGGTGTAGAT
+Palmaria        AAAATTCATGGTATGAACTTCCGAGTTATTTGCAAGTGGATGCGTATGGCTGGAGTTGAT
+Ulva            CGTAATCACGGTATTCACTTCCGAGTATTAGCGAAAATTTTACGTATGTCAGGTGGTGAC
+                   *  ** *****  * ********  *    **     * ******   ** *  ** 
+
+Saccharina      CATATCCATGCTGGTACAGTTGTTGGTAAATTAGAAGGAGATCCTTTAATGGTTAAAGGA
+Laminaria       CATATCCATGCTGGTACAGTTGTTGGTAAATTAGAAGGAGATCCTTTAATGGTTAAAGGA
+Fucus           CATATTCATGCTGGTACAGTTGTTGGAAAATTAGAAGGTGATCCTTTAATGGTTAAAGGT
+Palmaria        CATATTCACGCAGGTACTGTAGTTGGTAAATTAGAAGGTGACCCTGTAATGATTCAAGGT
+Ulva            CACTTACACTCAGGAACAGTAGTAGGTAAATTAGAAGGTGAACGTGAAATTACTTTAGGT
+                **  * **  * ** ** ** ** ** *********** ** * *  ***   *  *** 
+
+Saccharina      TTCTACAACACTTTATTATTAACTCAACTTAAAATCAATTTACCTGAAGGTTTATTCTTC
+Laminaria       TTCTACAATACTTTATTATTAACTCAACTTAAAATTAATCTACCTGAAGGTTTATTCTTC
+Fucus           TTCTATAACACACTATTATTAACAGAGCTAAAAATTAATTTAGCAGAAGGTTTGTTCTTC
+Palmaria        TTCTACAATACTTTACTTGAGAGTCATCTTGAAGCGAACTTACCTCAAGGTATCTTCTTC
+Ulva            TTCGTTGACTTAATGCGTGATGACTACATTGAAAAAGATCGTAGTCGTGGTATTTACTTT
+                ***    *     *           *  *  **    *          *** * * *** 
+
+Saccharina      GACATGGATTGGGCATCTTTAAGAAAATGTGTTCCAGTAGCTTCTGGTGGAATCCATTGT
+Laminaria       GACATGGATTGGGCATCTCTTAGAAAATGTGTTCCAGTAGCTTCTGGTGGAATCCATTGT
+Fucus           GATATGGATTGGGCATCTCTTAGAAAATGTGTTCCTGTAGCTTCTGGTGGTATTCATTGT
+Palmaria        GAACAAGATTGGGCTTCACTAAGAAAATGTACTCCTGTTGCTTCTGGTGGTATTCATTGT
+Ulva            ACTCAAGATTGGGTTAGTTTACCTGGTACAATGCCTGTAGCGTCAGGTGGTATTCACGTG
+                      *******      *             ** ** ** ** ***** ** **    
+
+Saccharina      GGTCAAATGCACCAACTTCTTTACTATTTAGGTGACGATGTGGTTCTACA----------
+Laminaria       GGTCAAATGCACCAACTTCTTTACTATTTAGGTGACGATGTGGTTCTACAATTTGGTGGT
+Fucus           GGTCAAATGCATCAACTTCTTTACTATTTAGGTGATGATGTAGTTCTACAATTTGGTGGT
+Palmaria        GGACAAATGCATCAACTGTTAGACTATCTTGGAGACGATGTAGTTCTTCAGTTTGGTGGT
+Ulva            TGGCACATGCCTGCATTAGTTGAAATCTTTGGTGATGATGCATGTTTACAATTCGGTGGT
+                 * ** ****    * *  *  *     * ** ** ****    * * **          
+
+Saccharina      ------------------------------------------------------------
+Laminaria       GGTACTATTGGTCACCCTGATGGTATTCAATCCGGTGCGACAGCAAACCGTGTTGCTCTA
+Fucus           GGTACAATCGGTCACCCTGATGGTATACAAGCAGGCGCTACAGCGAATCGTGTTGCGTTA
+Palmaria        GGTACAATTGGTCACCCTGATGGTATCCAAGCCGGTGCAACTGCAAATCGTGTAGCTTTA
+Ulva            GGTACATTAGGACACCCTTGGGGTAACGCTCCAGGAGCCGCTGCAAACCGTGTAGCTTTA
+                                                                            
+
+Saccharina      ------------------------------------------------------------
+Laminaria       GAATCTATGGTTCTAGCTCGTAATGAAGGTCGTGACTACGTTGGAGAAGGTCCTGAAATC
+Fucus           GAAGCTATGGTTTTAGCTCGTAATGAAGGTCGTGATTATGTTGGTGAAGGTCCTGAAATT
+Palmaria        GAGAGCATGGTAATTGCAAGAAATGAAGGACGCGACTTTGTTGCTGAAGGTCCTCAAATT
+Ulva            GAAGCTTGTACACAAGCCCGAAACGAAGGGCGTGATTTAGCGTCTGAAGGCGGTGATGTA
+                                                                            
+
+Saccharina      ------------------------------------------------------------
+Laminaria       TTACGTAAGGCAGCATCTACTTGTGGTCCTTTAAAAGCAGCTTTAGATTTATGGAAAGAT
+Fucus           TTACGTACAGCTGCTAGTACTTGTGGACCATTAAAAGCAGCTTTAGATTTATGGAAAGAT
+Palmaria        TTGAGAGATGCAGCAAAAACTTGTGGACCTCTACAAACAGCTTTAGATTTATGGAAAGAT
+Ulva            ATTCGTGCTGCTT-----------------------------------------------
+                                                                            
+
+Saccharina      ------------------------------------------------------------
+Laminaria       ATTACTTTCGATTACACTTCAACAGATACACCTGATTTCGTTGAAGTTGCAACTGAAAGC
+Fucus           ATTACTTTTGAATATACTTCAACAGATACACCTGATTTCACTGAAGTGGCAACTGAAAGT
+Palmaria        ATTAGTTTCAACTATACCTCTACTGATACAGCTGATTTCGTTGAGACTCCAACAGCTAAC
+Ulva            ------------------------------------------------------------
+                                                                            
+
+Saccharina      ------------------------------------------------------------
+Laminaria       AAATAG------------------------------------------------------
+Fucus           AACTAA------------------------------------------------------
+Palmaria        GTTTAAATATAACTAGTCTTAAGTTTACTTCTAATTAAATTAGAAGATTAAATTTTAGAT
+Ulva            ------------------------------------------------------------
+                                                                            
+
+Saccharina      ------------------------------------------------------------
+Laminaria       ------------------------------------------------------------
+Fucus           ------------------------------------------------------------
+Palmaria        TACTACTTGCCTAATCATTAAAGGAGTATAGAATAGTGAGATTAACACAAGGAGCTTTTT
+Ulva            ------------------------------------------------------------
+                                                                            
+
+Saccharina      ------------------------------------------------------------
+Laminaria       ------------------------------------------------------------
+Fucus           ------------------------------------------------------------
+Palmaria        CCTTCCTGCCAGATTTGACAGATGACCAAATTTCAAAGCAAGTATCATATGCTATGGGAA
+Ulva            ------------------------------------------------------------
+                                                                            
+
+Saccharina      ------------------------------------------------------------
+Laminaria       ------------------------------------------------------------
+Fucus           ------------------------------------------------------------
+Palmaria        AAGGTTGGTCTGTAAATATCGAGTATACTGATGATCCACACCCACGTAATTCCTACTGGG
+Ulva            ------------------------------------------------------------
+                                                                            
+
+Saccharina      ------------------------------------------------------------
+Laminaria       ------------------------------------------------------------
+Fucus           ------------------------------------------------------------
+Palmaria        AACTGTGGGGTCTTCCACTATTTGATATTCCAGATGCACCTACTGTAATGTATGAAATTT
+Ulva            ------------------------------------------------------------
+                                                                            
+
+Saccharina      ------------------------------------------------------------
+Laminaria       ------------------------------------------------------------
+Fucus           ------------------------------------------------------------
+Palmaria        CTAGTTGTCGTAAAGCACATCCAGGAGTGTATATCAAAGTAAACGCTTTTGATAATACTA
+Ulva            ------------------------------------------------------------
+                                                                            
+
+Saccharina      ------------------------------------------------------------
+Laminaria       ------------------------------------------------------------
+Fucus           ------------------------------------------------------------
+Palmaria        GAGGAGTTGAAAGTTGTTCTTTATCTTTCATCATCAATAGACCTGCTTCTGAACCTGGTT
+Ulva            ------------------------------------------------------------
+                                                                            
+
+Saccharina      ------------------------------------------------------------
+Laminaria       ------------------------------------------------------------
+Fucus           ------------------------------------------------------------
+Palmaria        TCGGACTTCTACGTACTGAAGATATTGGACGTAACCAAAAGTATGCTATTCATAGTTATG
+Ulva            ------------------------------------------------------------
+                                                                            
+
+Saccharina      ------------------------------------------------------------
+Laminaria       ------------------------------------------------------------
+Fucus           ------------------------------------------------------------
+Palmaria        CTACAGAAAAACCTGAAGGCTCTCGTTACTAGAGCATTAAGTAATATTTATTCATAACTT
+Ulva            ------------------------------------------------------------
+                                                                            
+
+Saccharina      ------------------------------------------------------------
+Laminaria       ------------------------------------------------------------
+Fucus           ------------------------------------------------------------
+Palmaria        ATGACTAAAAAAAGAAATTATAGAAATATAATTTCTTTTATTTATTTAATATTAACTTAA
+Ulva            ------------------------------------------------------------
+                                                                            
+
+Saccharina      -----------------------------------
+Laminaria       -----------------------------------
+Fucus           -----------------------------------
+Palmaria        AAAATAGTATGCCACAAAAATTTTCAGACGATACT
+Ulva            -----------------------------------
